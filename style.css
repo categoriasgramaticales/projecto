@@ -113,7 +113,63 @@ table
     
 }
 
-.box {
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+
+  .marginCenter 
+  {
+    border: 1px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-left:200px;
+    
+  }
+
+  h2 
+  {
+    font-size: 40px ;
+  }
+
+  h3 
+  {
+    font-size: 30px ;
+  }
+
+  .margin2
+  {
+    border: 1px;
+    width: 700px;
+    text-align: center;
+    margin-left: 550px;
+    font-size: 18px;
+  }
+
+  .contenedor 
+  {
+    display: flex;
+    justify-content: center;
+  }
+
+  .marginLeft
+  {
+    border: 1px;
+    margin-left: 20px;
+  }
+
+  .marginRight
+  {
+    border: 1px;
+    margin-right: 20px;
+  }
+
+ 
+  .box {
     width: 3em;
     padding: 0px 10px;
     margin-left: auto;
